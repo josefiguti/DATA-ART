@@ -1,0 +1,12 @@
+body {padding: 0; margin: 0;}
+
+.Portada {height:500px; background-color: black; width: 100%;}
+.titulo {font-size: 50px; color: white; font-family: 'Helvetica Neue', sans-serif; font-weight: bolder;
+	margin: 0; padding: 30px ; padding-top: 100px; width: 100%; position: absolute;}
+ 
+.index {font-family: 'Helvetica Neue'; font-size: 12px; margin-left:35px;
+	padding-top: 280px; padding-left: 0px;color: white;}
+
+.index a {text-decoration: none; color: white;}
+
+.index a:hover {background-color: #F683CE;}
